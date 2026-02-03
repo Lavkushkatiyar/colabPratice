@@ -8,3 +8,13 @@ as shown in the class
  .[x] i have to toggle between using href
 links
 ```
+
+# data structure
+
+```js
+parseRequest {
+   method,
+   path,
+   protocol,
+}
+```
